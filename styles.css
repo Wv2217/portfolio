@@ -1,0 +1,49 @@
+h1{
+    font-family: 'Concert One', cursive;
+}
+    
+
+
+.row{   
+    border:2px solid skyblue;
+    background-color:#4d7185;
+ 
+    color:#d3cecb;
+    font-size:20px;
+    display:flex;
+    justify-content:space-around;
+}
+.headshot{
+    width:20%;
+    
+    
+   
+}
+.mid{
+    background-color:#1e272c;
+    width:100%;
+    height:20%;
+    color:#d3cecb;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+.aboutme{
+    border:1px solid black;
+    justify-content:center;
+   padding-left:467px;
+   padding-right:467px;
+   width:20%;
+}
+
+.contact{
+display:flex;
+    justify-content:space-around;
+   
+    
+}
+
+#LinkedIn{
+    width:220px;
+}
